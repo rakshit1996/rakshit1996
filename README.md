@@ -3,10 +3,11 @@
 <h2>👨‍💻 Data Anlysis Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Data Analysis in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Certification:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b> 
+- <b> Hackerrank SQL assesment for the skill (https://www.hackerrank.com/certificates/21fef5053743)
+- <b> Tableau for Data science (https://www.linkedin.com/learning/certificates/6bafbbf5f1b865621f55763a7c5b0a8763383177269e849568d01914c17e8674)</b>  
 
 <h2> 🤳 Connect with me:</h2>
 
