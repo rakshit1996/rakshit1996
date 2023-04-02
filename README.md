@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Anlysis Projects:</h2>
 
 - <b>Data exploration and Analysis Practice </b>
-  - [Praciting Data Analysis in SQL]()
+  - [Data Analysis in SQL](https://github.com/rakshit1996/Data-analysis-with-SQL/blob/main/README.md)
   - [Praciting Data Analysis in Python]()
   
 <h2> 🤳 Certification:</h2>
