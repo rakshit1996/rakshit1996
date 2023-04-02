@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Data Analysis with SQL </b>
-  - [COVID Data Analysis in SQL](https://github.com/rakshit1996/Data-analysis-with-SQL/blob/main/README.md)
+  - [COVID Data Analysis in SQL](https://github.com/rakshit1996/Data-analysis-with-SQL)
 - <b>Data Analysis with Python </b>
   - [Praciting Data Analysis in Python]()
   
