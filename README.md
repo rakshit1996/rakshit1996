@@ -1,13 +1,14 @@
 <h1>Hi, I'm Rakshit! <br/><a> Data Enthusiast</a>, Data Analyst</a>
 
-<h2>👨‍💻 Data Anlysis Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data exploration and Analysis Practice </b>
-  - [Data Analysis in SQL](https://github.com/rakshit1996/Data-analysis-with-SQL/blob/main/README.md)
+- <b>Data Analysis with SQL </b>
+  - [COVID Data Analysis in SQL](https://github.com/rakshit1996/Data-analysis-with-SQL/blob/main/README.md)
+- <b>Data Analysis with Python </b>
   - [Praciting Data Analysis in Python]()
   
 <h2> 🤳 Certification:</h2>
-  - </b>Hackerrank SQL assesment for the skill(https://www.hackerrank.com/certificates/21fef5053743)</br>
+  - </b>[Hackerrank SQL assesment for the skill(https://www.hackerrank.com/certificates/21fef5053743)</br>
   - </b>Advanced sql for Data analysis and Business Intelligence(https://www.udemy.com/certificate/UC-bae0ddc8-d2b7-4508-8582-8a96f2909085/)</br>
   - </b>Tableau for Data scientist (https://www.linkedin.com/learning/certificates/6bafbbf5f1b865621f55763a7c5b0a8763383177269e849568d01914c17e8674) </br>
   
