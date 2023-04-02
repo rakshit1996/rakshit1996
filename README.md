@@ -8,7 +8,7 @@
   - [Praciting Data Analysis in Python]()
   
 <h2> 🤳 Certification:</h2>
-  - </b>[Hackerrank SQL assesment for the skill(https://www.hackerrank.com/certificates/21fef5053743)</br>
+  - </b>[Hackerrank SQL assesment for the skill](https://www.hackerrank.com/certificates/21fef5053743)</br>
   - </b>Advanced sql for Data analysis and Business Intelligence(https://www.udemy.com/certificate/UC-bae0ddc8-d2b7-4508-8582-8a96f2909085/)</br>
   - </b>Tableau for Data scientist (https://www.linkedin.com/learning/certificates/6bafbbf5f1b865621f55763a7c5b0a8763383177269e849568d01914c17e8674) </br>
   
